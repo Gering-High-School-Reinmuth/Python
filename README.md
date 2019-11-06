@@ -1,8 +1,5 @@
-# Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+#Welcome to Reinmuth's Cybersecurity class!
 
-
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
+######Over the next 9 weeks we will be exploring Python 3, and cmd's to start learning how to implement cybersecurity protocols.
 
 Thanks!
